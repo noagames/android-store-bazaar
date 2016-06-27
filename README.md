@@ -1,9 +1,9 @@
 *This project is a billing provider plugin to [android-store](https://github.com/soomla/android-store).*
 
 
-## android-store-google-play
+## android-store-bazaar
 
-android-store-google-play is the default billing service plugin for android-store. It uses the default code given by Google which was adapted to IabHelper and IIabService interface so it'll be useful to SOOMLA's android-store.
+android-store-bazzar is a service plugin for android-store. It uses the api given by [Bazaar](https://github.com/cafebazaar/TrivialDrive). which was adapted to IabHelper and IIabService interface so it'll be useful to SOOMLA's android-store.
 
 
 ## Getting Started
@@ -76,5 +76,5 @@ IMPORTANT: If you would like to contribute, please follow our [Documentation Gui
 
 ## License
 
-Apache License. Copyright (c) 2012-2014 SOOMLA. http://soom.la
+Apache License. Copyright (c) 2012-2016 NoaGames. http://noagames.co
 + http://opensource.org/licenses/Apache-2.0
